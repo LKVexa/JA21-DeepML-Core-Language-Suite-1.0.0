@@ -1,0 +1,6 @@
+deepml core 0.3
+module corpus.deepml_core.example_09011
+policy deterministic
+policy no_network
+graph Graph09011 { a = b + 1 b = a + 1 }
+certify graph Graph09011 profile strict

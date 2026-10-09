@@ -1,0 +1,153 @@
+{
+  "profile": "deepml.core",
+  "suite": "JA21_DMLC_Suite_1.0.0",
+  "updated_datasets": [
+    {
+      "path": "corpus/technical/core_01.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_02.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_03.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_04.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_05.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_06.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_07.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_08.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_09.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_10.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_11.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_12.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_13.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_14.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_15.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_16.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_17.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_18.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_19.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/core_20.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/deepml_core_technical_corpus_10000.jsonl.gz",
+      "records": 10000,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    }
+  ],
+  "master_expected_outcomes": {
+    "pass": 8014,
+    "fail_as_expected": 1986
+  },
+  "master_device_mismatch_field_counts": {},
+  "sample_quarantined_records": [],
+  "source_programs_preserved": true,
+  "modeled_result_qualification": "expected labels preserved; observed_result=null; native_execution_eligible=false",
+  "scope": "Published corpus/technical gzip datasets only; historical/reconstructed documents remain unchanged.",
+  "master_qualification_by_expected_outcome": [
+    {
+      "expected": "fail_as_expected",
+      "qualification": "modeled_expectation_only",
+      "count": 1986
+    },
+    {
+      "expected": "pass",
+      "qualification": "modeled_expectation_only",
+      "count": 8014
+    }
+  ]
+}

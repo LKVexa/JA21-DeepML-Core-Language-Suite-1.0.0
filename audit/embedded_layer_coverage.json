@@ -1,0 +1,966 @@
+{
+  "coverage": [
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 1,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/bootstrap/bootstrap_records.jsonl",
+      "content_bytes": 77486,
+      "content_sha256": "a2f32cddd5a8f2f0bd94e05ae6af9bb3de229eae0119d8429ef29419228e4b08",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 49,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 2,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/bootstrap/bootstrap_records.md",
+      "content_bytes": 69147,
+      "content_sha256": "944522ef2f23716a9b3d67e2f5381e2d5775161439c62e9f2fbf4c574f4f2960",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 3,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/compiler/contract.json",
+      "content_bytes": 6980,
+      "content_sha256": "4e04b0f77df213052194651e321e85f52307b76b3f717390e581b07653ea0be4",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 4,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/coverage.json",
+      "content_bytes": 8492,
+      "content_sha256": "cc6dd6da5e3a050e65d647b7c42e5b50093d92fc1808610f39ad1a3f16973448",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 5,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_00001_00250.jsonl",
+      "content_bytes": 1351247,
+      "content_sha256": "b2812d5d65bf4feccdf1a04495cd88f3115e37fe0e1780e524c3e9bdb609fb79",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 6,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_00251_00500.jsonl",
+      "content_bytes": 1351779,
+      "content_sha256": "567c6453951a83b07ab4cca2dd6ab3f23f3c1fae996b6ed8cc1d095464ed8613",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 7,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_00501_00750.jsonl",
+      "content_bytes": 1351504,
+      "content_sha256": "d3d81b3a51ffbd0059ee6a7010a705a6053bfc8165bebc0e4f5d4eb0f087f945",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 8,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_00751_01000.jsonl",
+      "content_bytes": 1351803,
+      "content_sha256": "5209e5823a2e05a30091792c1878f0280acf4d017d0728990e3e86aefaa7fd60",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 9,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_01001_01250.jsonl",
+      "content_bytes": 1427377,
+      "content_sha256": "f66e6547972bc49bf20b4987e57c635aca6c2da8bde20cd9688df6d21134ccd5",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 10,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_01251_01500.jsonl",
+      "content_bytes": 1427052,
+      "content_sha256": "650d5744c74de5e4b36ad7d33fa6b5655e7ef8526f6dfc7a3e97075457ba683a",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 11,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_01501_01750.jsonl",
+      "content_bytes": 1427540,
+      "content_sha256": "86856936a19b23534f593a9f6b7f1311bfe013bcda0b53f02597f5ffc72b08a7",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 12,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_01751_02000.jsonl",
+      "content_bytes": 1427223,
+      "content_sha256": "5b9daebeab1e8385b722e8d5895b55b42376fff05a6d2e68dbb507eda8d6f7e4",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 13,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_02001_02250.jsonl",
+      "content_bytes": 1427378,
+      "content_sha256": "046bb9da59c23b42f358783e51878e15beb800b9af4d45fac6f9780e53b79bc7",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 14,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_02251_02500.jsonl",
+      "content_bytes": 1427050,
+      "content_sha256": "05479a9a15d97125bed33c75486ed529db6f7cad9d423879f6e2251e911958c3",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 15,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_02501_02750.jsonl",
+      "content_bytes": 1423300,
+      "content_sha256": "bdde8dd0a77deb9db48be05c46bc385ae73209a41c8c6c80ab07d64341fe21c2",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 16,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_02751_03000.jsonl",
+      "content_bytes": 1423548,
+      "content_sha256": "469425195ade7d1c992527f664517fc9d8606ac1e5f12539cd02e368e5ee07f0",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 17,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_03001_03250.jsonl",
+      "content_bytes": 1423433,
+      "content_sha256": "26486d476e80c1c99dda85e06a483e2f5608b44515c41ae9ac9acfddfc230562",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 18,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_03251_03500.jsonl",
+      "content_bytes": 1423505,
+      "content_sha256": "c5344b94b814c950686c239bf7204b6cd62a1573e9319b6cf55a969f5bdab6dc",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 19,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_03501_03750.jsonl",
+      "content_bytes": 1423299,
+      "content_sha256": "f26158122fbb53e909cbfeb16c74fe407dcc1684078264610733e3de9e386164",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 20,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_03751_04000.jsonl",
+      "content_bytes": 1423549,
+      "content_sha256": "66e6c811d0c7909ef4b5c5000279bd62ba220c2176d25c542156838a6e1281d6",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 21,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_04001_04250.jsonl",
+      "content_bytes": 1423437,
+      "content_sha256": "bb7520c741620d9e4da8051bda54344683fbaf4ffd8f62b86a56b80169e00bf9",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 22,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_04251_04500.jsonl",
+      "content_bytes": 1423511,
+      "content_sha256": "7bc93b5784beeebd39b7a20f07f5bdd36a33a38dbc4e6c483eccf59871bbb34a",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 23,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_04501_04750.jsonl",
+      "content_bytes": 1423298,
+      "content_sha256": "43f5a7d8d2196a598a75a293de1f15917b9d6dbedb29d8d08327465a9afb20ca",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 24,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_04751_05000.jsonl",
+      "content_bytes": 1423542,
+      "content_sha256": "ea64b8f73efff58740de42ed3f250c99ff928d8b97adf5349ff2a395a0ebdfa7",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 25,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_05001_05250.jsonl",
+      "content_bytes": 1519619,
+      "content_sha256": "f5f5d2a489647655722abf9af485a02c239becf16832aba8df647960bdd1538f",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 26,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_05251_05500.jsonl",
+      "content_bytes": 1519309,
+      "content_sha256": "0e0d290f6dc4feecc3c50afe85efaef6e3300375fe31fcc2a17ad78fe4536a21",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 27,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_05501_05750.jsonl",
+      "content_bytes": 1519726,
+      "content_sha256": "2b1490fac877db2ac21f7dde7b962f2c4ada96658ac5dbec445f057df9c18d69",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 28,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_05751_06000.jsonl",
+      "content_bytes": 1519311,
+      "content_sha256": "85318e0cff5e191feb889daaa28c149f0da066b69b396baaf23777de2034b50f",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 29,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_06001_06250.jsonl",
+      "content_bytes": 1519589,
+      "content_sha256": "534b2d8b2fb7ca4da1944d78e04ae827ffd650dce2991ffa0861cf5feec2f048",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 30,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_06251_06500.jsonl",
+      "content_bytes": 1519411,
+      "content_sha256": "66d61fc103a0ac0315900e25b487083b0a4f025948e886a208ad2fa2241ef4a0",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 31,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_06501_06750.jsonl",
+      "content_bytes": 1519617,
+      "content_sha256": "7ce595bd780e66dea5c0308ee983ba139640f783f005c0eca87c96ddc5a483e2",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 32,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_06751_07000.jsonl",
+      "content_bytes": 1519313,
+      "content_sha256": "75e15848bbf0a975d6ccf829a4d2e329c13a6f64769da7c43ad4a996a0d390e4",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 33,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_07001_07250.jsonl",
+      "content_bytes": 1519723,
+      "content_sha256": "bd6b8332b0ee0e50aba9d3876fd6760f2a8640a9318a8ec54505eee60bdae38e",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 34,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_07251_07500.jsonl",
+      "content_bytes": 1519311,
+      "content_sha256": "cb26d353cefe580b7177631e49c6df93fcbe1a3495eb6733c48e065ce0b3153e",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 35,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_07501_07750.jsonl",
+      "content_bytes": 1423202,
+      "content_sha256": "49d8466b2e89b35f6139b9ce6e4609a4b6d1e244128ed3d394faca4fad890986",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 36,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_07751_08000.jsonl",
+      "content_bytes": 1423178,
+      "content_sha256": "2b2e22148a0f94f24eba05f0a7780e4af940be1fe6800aa47b808543f2ca5b4e",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 37,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_08001_08250.jsonl",
+      "content_bytes": 1423223,
+      "content_sha256": "437d547db9660e2dc8d9ea85ffb4ea85423e269e5414710aa092a8f198a1e829",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 38,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_08251_08500.jsonl",
+      "content_bytes": 1422694,
+      "content_sha256": "64784ef8d28cf9ce2d7d347a8c86b4a6612c347076d65051d7e39a420c77a871",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 39,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_08501_08750.jsonl",
+      "content_bytes": 1423202,
+      "content_sha256": "df77309ac1fbb6c331f960c48f2e40e89c4fe28d16f3c370920faa61f0b620af",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 40,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_08751_09000.jsonl",
+      "content_bytes": 1423184,
+      "content_sha256": "b2ba959f8b8f497b46cadc78d1ff9e7a280012f55e029fba30432a05840dd5ce",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 41,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_09001_09250.jsonl",
+      "content_bytes": 1330053,
+      "content_sha256": "75849fb277fe20baf3300c3a5dcecb96521a23ce4b935cf69411a3aee42a1d6f",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 42,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_09251_09500.jsonl",
+      "content_bytes": 1328446,
+      "content_sha256": "a4646ef4a163065d2bc4841cab5267d64b6ed15d3637fcc7a0a1324d337589c7",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 43,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_09501_09750.jsonl",
+      "content_bytes": 1329293,
+      "content_sha256": "bf6e035268ef89be0eecbdb5a30461d5c4efb9067f484a0e3d8e225e72675150",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 44,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/examples/DMLC_09751_10000.jsonl",
+      "content_bytes": 1330988,
+      "content_sha256": "8f81a67ccd2529b8a95d063c08ea9dbdba80a50bbbda31fe729e65bd5e618c54",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 45,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/grammar/grammar.ebnf",
+      "content_bytes": 2353,
+      "content_sha256": "c4180787a3d8d2dbc47d1bdd82713f8f2568c25b9bfb90ebf17f5ef098372765",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 46,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/grammar/grammar_specification.md",
+      "content_bytes": 14696,
+      "content_sha256": "eb3001a59a61b060ac5b454cfb42ac501880a3b6b57db28189426b31e03f47b3",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 47,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/hashes.sha256",
+      "content_bytes": 5210,
+      "content_sha256": "e1fa3ad0d1230c729f4bc8b7bd767a0638097046a97c70d6c596392d7b91bd7e",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 48,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/language_suite_specification.md",
+      "content_bytes": 13017,
+      "content_sha256": "61bdfc8c51e338ac5c42904e7f1f2b42cdf3f3f49acd0e6293ea448fc42d1931",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 49,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/learning/learning_modules.json",
+      "content_bytes": 21106,
+      "content_sha256": "7a84e87ad0815b11d727fc5a414402090798ff2a63ec27bec5d180103aef9680",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 50,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/manifest.json",
+      "content_bytes": 8298,
+      "content_sha256": "802f53a743c56330104cf4ce8de233b33a64b5c2b920be3f18be1752a3638fa8",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 51,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/mcrt/profile.schema.json",
+      "content_bytes": 6931,
+      "content_sha256": "ec96427c0d304cd41779698169e388d5bcc331452b4fe105c3a38fa3c2399b8b",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 52,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/README.md",
+      "content_bytes": 2775,
+      "content_sha256": "da1ccc5b1cdd547585b5e72d5668a27328e53c73b450c2be10777f94b1521eae",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 53,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/runtime/contract.json",
+      "content_bytes": 6907,
+      "content_sha256": "df939dda976b4ce69b9ae579a8ea2d58b5aa08f2f5f29a3b15c7f4285c955da8",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 54,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-00001.deepml",
+      "content_bytes": 1607,
+      "content_sha256": "175161253bc1d45a333d678e79f21640c8ab595fe02486529a406d8b54fd616f",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 55,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-00001.record.json",
+      "content_bytes": 14703,
+      "content_sha256": "dde687b81ddb3420cee5ca777cc3dde42632228d5aa113347ff995023ac5ab42",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 56,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-00002.deepml",
+      "content_bytes": 1607,
+      "content_sha256": "4ee94fb7d16039b76577cc42936e4e58472a1321a576878099b9a9eb8f023e47",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 57,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-00002.record.json",
+      "content_bytes": 14646,
+      "content_sha256": "b884014bb830a095930c250b3d3cb2da120e4ac99a1e75de34500a243b6c207f",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 58,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-00003.deepml",
+      "content_bytes": 1609,
+      "content_sha256": "046c6688f191e5052d12184b9d5349f5cc49fd7fe864dab3d91c7bdd99f52c46",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 59,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-00003.record.json",
+      "content_bytes": 14648,
+      "content_sha256": "66513af485cc56be38fbac1c4a788fac4e34b67d32dba9bc93ea5b3e304ab58b",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 60,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-00004.deepml",
+      "content_bytes": 1607,
+      "content_sha256": "c9334ee5659737f396368272697c24b54e3c6281326c262c2623ec698c9878a8",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 61,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-00004.record.json",
+      "content_bytes": 14893,
+      "content_sha256": "a38f71f2793b7718591cff58ff376aa3021e83f9ad606aac91c1ae0bd7f07dc2",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 62,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-00005.deepml",
+      "content_bytes": 1607,
+      "content_sha256": "4dc98da1f43252b5956f09239c81d553dae823305c20002914c31b83a1bb3a77",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 63,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-00005.record.json",
+      "content_bytes": 14743,
+      "content_sha256": "bf69cf3ffc3540411ca6d57abbc4e8dd4916ce4c2bc7c69cb310e3566496606f",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 64,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-01000.deepml",
+      "content_bytes": 1610,
+      "content_sha256": "d4e18528693fe5b02d3405289d342a017226d4ccdda683870aa950e936c46da0",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 65,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-01000.record.json",
+      "content_bytes": 14714,
+      "content_sha256": "eb48151b3c5c166ee2222a5ca5a90321cd02906639dd2d315a1919912b37b6bc",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 66,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-01001.deepml",
+      "content_bytes": 1847,
+      "content_sha256": "a184b5e51e0eeaff03b412c33dc25e0469825fb4b9298c34765aa348c787c6ef",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 67,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-01001.record.json",
+      "content_bytes": 15113,
+      "content_sha256": "34fa5478c4785993a5682ee8e265a722e1b2aefc578457357fa3d90166172c0a",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 68,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-01002.deepml",
+      "content_bytes": 1847,
+      "content_sha256": "9b862a4c5439a3e1067bb863b04c7ea042c86f2a8f76b8be6e19da44df57ac6b",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 69,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-01002.record.json",
+      "content_bytes": 14980,
+      "content_sha256": "8f5eda3610b87e8eb74403f4dbd3b9cacf95e7264fa22f1856cdb4de2ae5d55a",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 70,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-02500.deepml",
+      "content_bytes": 1845,
+      "content_sha256": "159fc8dd75e5bec869266e4822b70e0e5f1cac72a483755c2812c7675653af73",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 71,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-02500.record.json",
+      "content_bytes": 14997,
+      "content_sha256": "7f33e9b9f6ebdf90ddf2f60238867cea6217f36a86dc893b170df6eab17fddb6",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 72,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-02501.deepml",
+      "content_bytes": 1800,
+      "content_sha256": "b7999aaf7033068ab32fa0c75c60964e98faf2bf0ce71b9fc6d140977f9ca38c",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 73,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-02501.record.json",
+      "content_bytes": 15093,
+      "content_sha256": "d1ef46d005209d8aabe3bb4472f4e53a2985ebaa5fc8d65ad26ed386dee3821b",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 74,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-02502.deepml",
+      "content_bytes": 1839,
+      "content_sha256": "c4b85bbf6c1cda205a76b9bb1d6ec98eadb47c12e250af2501e3974ff336a231",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 75,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-02502.record.json",
+      "content_bytes": 13469,
+      "content_sha256": "51001a68723f1fb6c4c799f2a951cffeb12f6ca3ed44ba6e21e51d0b738f6e6b",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 76,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-05000.deepml",
+      "content_bytes": 1800,
+      "content_sha256": "79a2c18254dd75f32796937541ec8a88f994fcc87f82446e8c5ef99a6a8f91b7",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 77,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-05000.record.json",
+      "content_bytes": 15091,
+      "content_sha256": "952678864ec87b9a2e4ba3443b859ea977aadefea78342cf3680678fd60de80d",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 78,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-05001.deepml",
+      "content_bytes": 2050,
+      "content_sha256": "4aae5a1042f8ba2cddbccef50610e9bf0668dacb5f1faa37837f2dedf9ed1b38",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 79,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-05001.record.json",
+      "content_bytes": 15380,
+      "content_sha256": "8be944b4fe8b7e8c12324de3407007c7ee3d966a69e52a24a44fd2f862a03f57",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 80,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-05002.deepml",
+      "content_bytes": 2050,
+      "content_sha256": "c3e2bf95ad3f15706fac11326fa26d197ff4ab8f88eb5f0b59cb491fe3ed1de4",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 81,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-05002.record.json",
+      "content_bytes": 15458,
+      "content_sha256": "dda95d7f81b86de515b5236bf5277e6c2febbb8508efbd5ff2133fd184834e3d",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 82,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-07500.deepml",
+      "content_bytes": 2050,
+      "content_sha256": "4e4861520a4392e232a0b7bf77808fe3e0a0070a01340c25bd536186252d811d",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 83,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-07500.record.json",
+      "content_bytes": 15405,
+      "content_sha256": "55ce1c69329c6f06d967508c5865ed4e0d5d001d776aca1a43ba35994273dca0",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 84,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-07501.deepml",
+      "content_bytes": 1797,
+      "content_sha256": "3620168a196c8f9b9bdbde5531f36235e1c7624888314093b438868f1dd080ca",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 85,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-07501.record.json",
+      "content_bytes": 15137,
+      "content_sha256": "61266f2db4512aaad1ff88bb00dd31ab8f7218283b6615aacc5a176b5b2c1459",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 86,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-07502.deepml",
+      "content_bytes": 1797,
+      "content_sha256": "5447ab050fc13b51a6eb6a2f0bb18a39cd4b8264c24c975f9640490958c9a098",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 87,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-07502.record.json",
+      "content_bytes": 15100,
+      "content_sha256": "4bdf236a3ce8437aa6a51fabb16f14728262274b15cc3147522037410f012109",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 88,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-09000.deepml",
+      "content_bytes": 1797,
+      "content_sha256": "51d013c83122cc7ade41ba4e328d1b1ebe27d0f4effd010796730e6492976995",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 89,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-09000.record.json",
+      "content_bytes": 15185,
+      "content_sha256": "fe46d6a4bb7da31b1e36a7bddea1b22852285e0e62ac2da10f6a237d7a1f8c8f",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 90,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-09001.deepml",
+      "content_bytes": 1541,
+      "content_sha256": "7ccc25e8344380ff06ff91371f2e811aecee175d9055cadf498bb1e8cd97d7d6",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 91,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-09001.record.json",
+      "content_bytes": 13196,
+      "content_sha256": "5aaa4bf5d9340659981542ec61b06d998c7f64bf77d24199694ef99ee7f7b175",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 92,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-09002.deepml",
+      "content_bytes": 1512,
+      "content_sha256": "44a21e581f1bed4b6604c3218d57fb5918e80c6717d59fc55bc64f2b6ba65e6d",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 93,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-09002.record.json",
+      "content_bytes": 13119,
+      "content_sha256": "214d7bda54a2bb25b31141afa6eead658c739dec221de4e7ee3495355f007b7b",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 94,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-09998.deepml",
+      "content_bytes": 1540,
+      "content_sha256": "e9ce9996db3690d8a5337b48f96fa407ec6bfa41979d640955774c85cbdce36b",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 95,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-09998.record.json",
+      "content_bytes": 14853,
+      "content_sha256": "636236484094cf48dec2bd804c5d29ebe25b4c5a60c0c29ad3a70bf9f0b41d59",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 96,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-09999.deepml",
+      "content_bytes": 1530,
+      "content_sha256": "54f5937bd531bc9f534cc4686487ab01baf5a946d5a34437657077864a9b1962",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 97,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-09999.record.json",
+      "content_bytes": 13129,
+      "content_sha256": "02511c66a7679aa5605ff2338293921716c96d89cacd343182dc98786069b92f",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 98,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-10000.deepml",
+      "content_bytes": 1541,
+      "content_sha256": "5788381d4bdb63096a66f338083da717c98c1663c0415649ecc8300056006053",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 99,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/sample_scripts/EX-DMLC-10000.record.json",
+      "content_bytes": 13197,
+      "content_sha256": "8e95ebafddab41379ef0ff8e65ef1c6e5c6b6d5f1d03b578988b5cb6a111c30a",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 100,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/semantic/operators.json",
+      "content_bytes": 25842,
+      "content_sha256": "7aa821e23b07a33af646a40f627a331bd51fffc9d3ab5c155ba3e9002c174664",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 101,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/validation/conformance_cases.jsonl",
+      "content_bytes": 88504,
+      "content_sha256": "54cac39255a7227e784b95633cbef7be49f56340ce70accf01933c8cfe54dbb5",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 101,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/DeepML_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 102,
+      "original_id": "Corpora(2).zip::SCL_deepml_core_Corpus_1.0/deepml_core/validation/coverage_expectations.json",
+      "content_bytes": 7077,
+      "content_sha256": "6349c9038dce2e5fd4e8c6be4918b063401dd461b962e67aaf84618fd4bfb974",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    }
+  ],
+  "findings": [],
+  "note": "Embedded record totals overlap reconstructed datasets. They are additional coverage, not unique training examples."
+}

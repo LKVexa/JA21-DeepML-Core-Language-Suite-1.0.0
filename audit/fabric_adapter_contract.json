@@ -1,0 +1,16 @@
+{
+  "profile": "deepml.core",
+  "proposed_contribution": "Tensor types, model graphs, autodiff and schedules",
+  "reuse_boundary": "Require profile parser, shape inference and model runtime evidence.",
+  "source_archive_sha256": "46caa6096ab70f14931353ca56c04ee2469022fb3eed626ee01b8662dbc44cc9",
+  "source_evidence_paths": [
+    "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/SUITE_CATALOG.md",
+    "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/deepml_core_0.3/grammar/grammar.ebnf",
+    "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/deepml_core_0.3/grammar/grammar_specification.md",
+    "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/reference_source/deepml_core_0.3/language_suite_specification.md",
+    "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/specifications/GRAMMAR_SPECIFICATION.md",
+    "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/specifications/LANGUAGE_SPECIFICATION.md"
+  ],
+  "executable_adapter_implemented": false,
+  "mathematical_foundation": "8S Penteract-S3 Master Coupled Mechanics Law for intended JA model; typed operator semantics require their owning profile."
+}

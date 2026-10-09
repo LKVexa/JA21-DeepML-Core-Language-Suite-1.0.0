@@ -1,0 +1,18 @@
+{
+  "grammar": "specifications/DEEPML_CORE_LANGUAGE.ebnf",
+  "status": "incomplete_specification",
+  "undefined_references": [
+    "boolean",
+    "checkpointDecl",
+    "digit",
+    "dimension",
+    "dtype",
+    "functionDecl",
+    "letter",
+    "number",
+    "statement",
+    "string"
+  ],
+  "editorial_extension_reachable_from_program": false,
+  "authority": "Static production-reference inspection only; no syntax or semantic conformance claim."
+}

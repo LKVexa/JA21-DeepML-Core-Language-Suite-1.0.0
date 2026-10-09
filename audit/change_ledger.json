@@ -1,0 +1,212 @@
+[
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_01.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "1560517694f77d75708f9609a7cb6eb3d2c9ee778c3eac796d37c7ba8db0cf51",
+    "updated_sha256": "b362b43fbf99778b3cbd15223d1d1c861f9a73971966adabde8e5badaa8d5c7b"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_02.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "7a80e7589b8f0dd94e02296164209769416805586abb3ee3a8e85cb1554a3377",
+    "updated_sha256": "bf6622285f25740428eefa853a69191c3d96f6e2ffff18512ed7eedb3112fcd6"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_03.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "3d01b0122cac9dcb20b45ec782487313607c9cd34c55cb7e3fe8fcfaf8e5af26",
+    "updated_sha256": "25ae29fba89d5d49829940afd7ee79050e68a28155183e9ee787f72ab31f2a8c"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_04.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "78f0b5b9f038d9b0bad8c0941fb5abffc6798f3af7b648409385e5a8d0fa7d0f",
+    "updated_sha256": "46f1564850fb32cf85973e4d78c72f5bad95dc74a6dfd1c5b841b11f4dad1862"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_05.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "81f6816de5ff32767c06f4685622c618f894ff5fe59aa8d2ab10cf51b26d96a3",
+    "updated_sha256": "7949501d715b2ccab9f42ed9e78b63b84bb263ba65f3334c8cb38fb7499e4a4a"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_06.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "0547f1fd96df7c44a201204041fb8662e8f6dd8d854867b4331c89c606ec68c4",
+    "updated_sha256": "55131ad33401c6e6ed31ca2cc45e3ce772bab9479387877d4a024789e30e3f43"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_07.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "733992812a9effb2e178201e61624e48d3a161611f76b25ea1a992c15ee49cd8",
+    "updated_sha256": "23dd238c54a3953eb4b96c68031d6babdb2abd407d33595282d059f5e71cd647"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_08.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "3b35a61d6b06d51bc1c0dbd251253eb5aff5ededc21c8eb7dd33893e5f0532b9",
+    "updated_sha256": "ccc67790818a39244eaffa9814e422c5be79b671a56ce57844075ae244dd29ef"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_09.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "3374a9840ea527a111734db0872e3549ca381f4988a3f4d61500dd01c2cb5d94",
+    "updated_sha256": "f97033f82975ddc41c034ffab4a534bb8bea4958676441964e74c0200dfef45c"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_10.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "59e413bf80a42e094c29680e0bf62ecc57b6e925e211986401fad88e7d1a4f6e",
+    "updated_sha256": "100b6b07924cb5d46f972df6e2f45a008840985c033332e0eae4ad0b1d2a7793"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_11.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "3ab3a0401a7eef24fd8d4b85317bd838d1b3d454d1d1716c2f6b80fcd1a5b5b4",
+    "updated_sha256": "1aaa617488d2a19c286818f71ab9db9f87334fe186ac5b75d7f4384d0b427b4d"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_12.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "f0cae726c7f5177e3619be01f5ba23e8492b7dba6802d12c15fdc9b4c8b81253",
+    "updated_sha256": "dcc0a3c247120a3ae21a63400269adbb935c13c38e7e48cfc52668262de907bf"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_13.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "a79c58d19fed97af583a7166f2fe037567712cbcbf75f92153428395d63fb6e1",
+    "updated_sha256": "e6d2bc193304108e2c3b5a1d580841e866232394f1ecf74fa39a4309093acdea"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_14.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "77209a87fb242896875be75bc76002c303b35db87535ee3ed73f5b81867144eb",
+    "updated_sha256": "9e8e4c27fa18ead4228e486a17c8042c779c00f38b34b564f7eb912eefc75d84"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_15.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "ab70c1a2c67264c1af67831ee75f8b8dfc18869ba8ed09df4dba378a35ddfebf",
+    "updated_sha256": "6089a6eb9a629957daf3b0364be3f14cf704c35a224c719a464a5bfe17c17d2c"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_16.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "ca1eef7f09f3cf5183f574c85e4da2caef8153f3de83c0299c1183dd1811cea8",
+    "updated_sha256": "a3e0060d6de00ef48e656c7e350f625912e4a9f4cf6a738865817d2dfb4564cd"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_17.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "e80d1aac7256b4fff3846c1a7f0f376c6c973b01416a1d036ab579f0ade4254d",
+    "updated_sha256": "aeb9dbf782698b927d6f95cc7b9b63f2de03ae002f5f913121eb52490b66fd97"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_18.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "74bc9bac13bfe499d2be1cc7355086c76a8d4fc9523599f2b22a245f622191ae",
+    "updated_sha256": "706bfc75c8ca50713667f749a96e010411b7a072acbfc3ba49ca1f937a778801"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_19.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "7d3e17ce05abed0a29f4335bfe4bb7aaff5baa02afdb91c960c0ce2261d8eb1e",
+    "updated_sha256": "a53f86c0799890e399da3dc6f4adf9a7ff286cf6140301714fc5a5db63ef497e"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/core_20.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "84122ff29427b5395618eb995243ba8c3ee58390e7c6dc6df4a67cb313c8dc02",
+    "updated_sha256": "7fa7247fefadb32db3741f13f6ac25cace542bcbd0f5aef9b832174f6228a80f"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/deepml_core_technical_corpus_10000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "ce38affc958ffa205db0a974734503aa3555b0e6b5bba41d8cbf93f2dc3ba270",
+    "updated_sha256": "7c5ae94ba15fd54bc71898e39543551ba7ea639e4d1f59fe85192d1cc014c850"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/corpus/technical/technical_record.schema.json",
+    "status": "changed",
+    "source_sha256": "580fce4b3e55127bde14182408ce666f7b0ed3ef10f694435ebc3a8d732d225c",
+    "updated_sha256": "e85197bf16ab89ed0a92540a0d190c0f5c102441ff1836eaea3d3df4983dce89"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/README.md",
+    "status": "changed",
+    "source_sha256": "bf29121c4adcfd3ec00b1894717e16ccff15ffc2b453a62261ac5a40ae1165a2",
+    "updated_sha256": "3a279c4aa41b7acfc551e12faa148b61d75ca971ea4824479375058b3e405212"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/upgrades_deepml/GRAMMAR_AND_EVIDENCE_ERRATA.md",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "e65de288c4746a6ab98801bedffc82b1c11cecd51a1cf2519cf5d4da6c042c4a"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/upgrades_deepml/grammar_gaps.json",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "8fce1c91a24ff533e930293a7ffbbd09a97a4d503c32acce1eb44f5d05b62091"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/upgrades_deepml/LEXICAL_COMPLETION_DRAFT.ebnf",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "5d2f9aec0ca5c706dd2447c28d8708df4a58c44a915bdc88c0753cf3c9dcc2a3"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/upgrades_deepml/profile.json",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "aa4350a224dcd9737a4152aa9fa62825531e8c2463117061cfe295fa8a99e45d"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/upgrades_deepml/qualification.py",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "75f2338aa1abfa5575a45d0c187b57f6a8844a0591bc0bd742921c7e4b5e1ea0"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/upgrades_deepml/qualification_summary.json",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "ec5548a7b643947e60ff033f422e6cc3fb4fac85c3897eddbc76239e126e2e61"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/upgrades_deepml/requirements.txt",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "83979de442b6f367911092c24acdc47cd538c73a550a2e723ba89c8ebe06157d"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/upgrades_deepml/SOURCE_RECORD_PRESERVATION.json",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "d7a9668ce3a198770d6d8962ec891addf5a729926307b5a30e7012bdeddf912b"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/upgrades_deepml/test_qualification.py",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "06924ca4e5d121f56fbdd2b270b5676c61db5f3722edaec7496f6f9c15f102b9"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/upgrades_deepml/TEST_RESULTS.txt",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "15af2c9dbd05e6f685f3127ee77abe9db50cbc7f3f246449a9bfd07fd8704ac3"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/upgrades_deepml/UPGRADE_VALIDATION.json",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "24cd19d1d6b71a6c61cb95a7cc0e8567cc7c2d640cd4efe43f7926a8fe21e159"
+  },
+  {
+    "path": "payload/JA21-DeepML-Core-Language-Suite-1.0.0-main/JA21_DMLC_Suite_1.0.0.expanded/JA21_DMLC_Suite_1.0.0/upgrades_deepml/validate_upgraded.py",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "cb467f8aa211c471ab13710aae27044ee8e77273010dcfae10e55a1f21ce7973"
+  }
+]

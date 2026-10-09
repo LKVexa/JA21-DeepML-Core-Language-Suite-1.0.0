@@ -1,0 +1,11 @@
+deepml core 0.3
+module corpus.deepml_core.example_00129
+policy deterministic
+policy no_network
+tensor x: f64[3,5] = constant(3.5)
+tensor w: f64[5,2] = variable(seed=129)
+graph Graph00129 {
+  y = matmul(x, w)
+  z = relu(y + broadcast(0.1, shape(y)))
+}
+infer Graph00129 -> z

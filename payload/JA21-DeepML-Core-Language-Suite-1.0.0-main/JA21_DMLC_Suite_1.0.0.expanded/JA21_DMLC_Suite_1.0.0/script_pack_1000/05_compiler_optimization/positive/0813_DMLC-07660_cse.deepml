@@ -1,0 +1,15 @@
+deepml core 0.3
+module corpus.deepml_core.example_07660
+policy deterministic
+policy no_network
+tensor x: f32[3,8] = constant(2.0)
+tensor w: f32[8,5] = variable(seed=7660)
+graph Graph07660 {
+  a = x * 1.0
+  b = matmul(a, w)
+  c = relu(b)
+  d = relu(b)
+  y = c + d
+}
+optimize Graph07660 using [constant_folding, algebraic_simplification, operator_fusion, common_subexpression_elimination, memory_planning, device_partitioning]
+lower Graph07660 to DEEPML_CORE_R12

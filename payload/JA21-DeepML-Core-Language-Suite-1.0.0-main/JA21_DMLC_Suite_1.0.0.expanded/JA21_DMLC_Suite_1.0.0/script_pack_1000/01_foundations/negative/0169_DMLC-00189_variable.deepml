@@ -1,0 +1,12 @@
+deepml core 0.3
+module corpus.deepml_core.example_00189
+policy deterministic
+policy no_network
+tensor x: f64[5,6] = constant(9.5)
+tensor w: f64[6,3] = variable(seed=189)
+graph Graph00189 {
+  y = matmul(x, w)
+  z = relu(y + broadcast(0.1, shape(y)))
+}
+infer Graph00189 -> z
+verify semantic_hash == "invalid-00189"

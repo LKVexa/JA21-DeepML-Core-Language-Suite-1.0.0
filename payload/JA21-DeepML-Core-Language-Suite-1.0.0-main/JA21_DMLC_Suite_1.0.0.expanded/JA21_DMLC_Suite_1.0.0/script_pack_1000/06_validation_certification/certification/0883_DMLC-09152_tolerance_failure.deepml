@@ -1,0 +1,7 @@
+deepml core 0.3
+module corpus.deepml_core.example_09152
+policy deterministic
+policy no_network
+graph Graph09152 { y = approximate_sum(input) }
+verify y tolerance 0
+certify graph Graph09152 profile strict

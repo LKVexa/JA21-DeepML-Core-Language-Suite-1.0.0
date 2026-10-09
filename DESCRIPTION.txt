@@ -1,0 +1,1 @@
+Study tensors, model graphs, automatic differentiation, and schedules with JA21 DeepML Core. An offline suite joins 10,000 normalized records, 1,000 source examples, a 22-chapter textbook, and a twelve-week curriculum with grammar and runtime contracts. Explore language profile design and model toolchain research through explicitly modeled results.

@@ -1,0 +1,8 @@
+deepml core 0.3
+module corpus.deepml_core.example_09024
+policy deterministic
+policy no_network
+tensor x: f32[2,3]
+tensor w: f32[4,5]
+graph Graph09024 { y = matmul(x,w) }
+certify graph Graph09024 profile strict

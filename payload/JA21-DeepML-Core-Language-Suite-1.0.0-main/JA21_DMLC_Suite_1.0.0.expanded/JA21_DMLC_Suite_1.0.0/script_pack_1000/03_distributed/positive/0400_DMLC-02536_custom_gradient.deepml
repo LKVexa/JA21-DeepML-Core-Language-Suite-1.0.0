@@ -1,0 +1,13 @@
+deepml core 0.3
+module corpus.deepml_core.example_02536
+policy deterministic
+policy no_network
+tensor input: bf16[24,12] shard axis=0 parts=2
+graph Graph02536 distributed {
+  h = custom_gradient(layer_norm(input), stable_layer_norm_grad)
+  q = all_reduce(matmul(h, variable("wq")), op=sum)
+  y = cast(softmax(q), f32)
+  checkpoint "cp_02536" includes [wq]
+}
+random stream rng2 seed 2536 deterministic
+execute Graph02536 targets [gpu:0, gpu:1] mixed_precision bf16

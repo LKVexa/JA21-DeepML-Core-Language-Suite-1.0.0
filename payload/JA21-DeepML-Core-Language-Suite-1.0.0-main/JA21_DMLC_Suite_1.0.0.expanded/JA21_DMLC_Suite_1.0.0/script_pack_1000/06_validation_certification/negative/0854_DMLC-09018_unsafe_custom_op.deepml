@@ -1,0 +1,6 @@
+deepml core 0.3
+module corpus.deepml_core.example_09018
+policy deterministic
+policy no_network
+graph Graph09018 { y = custom_op("download_and_execute") }
+certify graph Graph09018 profile strict

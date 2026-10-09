@@ -1,0 +1,14 @@
+deepml core 0.3
+module starter.deepml_core.hello
+policy deterministic
+policy no_network
+
+tensor input: f32[2,4] = constant(1.0)
+tensor weight: f32[4,3] = variable(seed=2101)
+
+graph HelloCore {
+  projected = matmul(input, weight)
+  output = relu(projected + broadcast(0.1, shape(projected)))
+}
+
+infer HelloCore -> output

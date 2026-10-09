@@ -1,0 +1,16 @@
+deepml core 0.3
+module corpus.deepml_core.example_05102
+policy deterministic
+policy no_network
+module Encoder { fn run(x: f32[batch,6]) -> f32[batch,5] = relu(matmul(x, variable("enc"))) }
+module Decoder { fn run(x: f32[batch,5]) -> f32[batch,6] = matmul(x, variable("dec")) }
+graph Graph05102 train_infer {
+  encoded = Encoder.run(input("sensor"))
+  logic = embed deepml.logic version 0.3 { fn gate(x: Flag) -> Flag = x }
+  scene_state = bind ja.portal.scene::SceneState(encoded)
+  timeline_state = bind mcrt.portal.timeline::TimelineState(encoded)
+  output = Decoder.run(encoded)
+  loss = mse(output, target("sensor"))
+}
+checkpoint "pipeline_05102" every 72 steps
+package model Graph05102 as "model_05102.msslb"

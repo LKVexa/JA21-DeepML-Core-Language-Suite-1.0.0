@@ -1,0 +1,15 @@
+deepml core 0.3
+module corpus.deepml_core.example_01167
+policy deterministic
+policy no_network
+fn dense(input: f32[batch,5], weight: f32[5,4]) -> f32[batch,4] { return relu(matmul(input, weight)) }
+tensor input: f32[4,5] = random.normal(seed=1167)
+tensor target: f32[4,4] = constant(1.0)
+graph Graph01167 {
+  prediction = dense(input, variable("w", seed=1167))
+  loss = mse(prediction, target)
+  gradients = grad(loss, parameters())
+  update = adam(gradients, learning_rate=0.001)
+}
+execute Graph01167 on accelerator:0
+verify semantic_hash == "invalid-01167"

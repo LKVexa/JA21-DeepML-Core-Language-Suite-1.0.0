@@ -1,0 +1,7 @@
+deepml core 0.3
+module corpus.deepml_core.example_09001
+policy deterministic
+policy no_network
+graph Graph09001 { y = identity(1) }
+execute Graph09001 on quantum:99
+certify graph Graph09001 profile strict

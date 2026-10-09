@@ -1,0 +1,6 @@
+deepml core 0.3
+module corpus.deepml_core.example_09133
+policy deterministic
+policy no_network
+restore checkpoint "cp_old" into Graph09133 expect_schema "new"
+certify graph Graph09133 profile strict
